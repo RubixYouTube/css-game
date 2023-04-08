@@ -1,0 +1,18 @@
+.testbutton {
+  font-family: 'times new roman';
+  font-weight: bold;
+  color: #1778B0 !important;
+  font-size: 21px;
+  text-shadow: 0px 0px 0px #7CACDE;
+  box-shadow: 0px 1px 0px #BEE2F9;
+  padding: 7px 25px;
+  border-radius: 10px;
+  border: 4px solid #0011F2;
+  background: #949494;
+  background: linear-gradient(to top, #949494, #8C8C8C);
+}
+.testbutton:hover {
+  color: #14396A !important;
+  background: #468CCF;
+  background: linear-gradient(to top, #468CCF, #63B8EE);
+}
